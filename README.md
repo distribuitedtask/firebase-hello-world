@@ -60,3 +60,9 @@ docker push youruser/firebase-hello-world:latest
 
 - Add Cloud Functions integration for dynamic content.
 - Configure automated Lighthouse CI checks for the production URL.
+
+## What I've Learned
+
+- How to serve a static site via Firebase Hosting with a minimal configuration.
+- How to containerize the project with Docker for local smoke testing.
+- How to automate deployment to Firebase Hosting and Docker Hub using GitHub Actions.
